@@ -1,5 +1,6 @@
 # Javascript Moderno
 
+*Cada vez que necesitemos mostrar algun ejemplo se copia todo el archivo y se pega en el index*
 
 ## Temas puntuales
 

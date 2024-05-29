@@ -1,14 +1,4 @@
-const nombre =  "Ivan";
-const apellido = "Tabera";
-
-let valorDado = 5;
-valorDado = 10;
-
-console.log(nombre, apellido, valorDado);
-
-if (true) {
-    const nombre = "Guillermo";
-    console.log(nombre);
-}
-
-console.log(valorDado);
+/**
+ * Para ver algún ejemplo se debe de copiar el contenido del archivo que necesitamos y lo pegamos
+ * y corremos de manera normal el proyecto
+ */
